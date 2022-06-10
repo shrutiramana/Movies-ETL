@@ -52,6 +52,7 @@ MovieLens ratings data is cleaned and  movies_with_ratings_df DataFrame is creat
 
 <img width="668" alt="Screen Shot 2022-06-10 at 11 30 23 AM" src="https://user-images.githubusercontent.com/98556229/173111040-12ff09ef-cb68-4fc7-b03a-af6d0302b353.png">
 
-![image](https://user-images.githubusercontent.com/98556229/173111159-6ed5aeb5-fd69-41d1-95cd-449f896ea05c.png)
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/98556229/173111415-d5acda7a-21a5-4dbf-87cb-eb3dcd32342d.png">
+
 
 <img width="1201" alt="image" src="https://user-images.githubusercontent.com/98556229/173111261-160e0643-fd1b-40d7-84fb-a34584891efc.png">
