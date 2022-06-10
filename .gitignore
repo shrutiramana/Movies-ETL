@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+
+#Adding config file and ratings csv file  
+# adding config file
+config.py
+ratings_file = ./Resources/ratings.csv
+
 # Distribution / packaging
 .Python
 build/
